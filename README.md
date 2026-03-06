@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Rene and I'm learning Computing at University of Huddersfield, UK.
+
+Welcome to my profile ! 😄
+
 <!--
 **mevehicle/mevehicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
